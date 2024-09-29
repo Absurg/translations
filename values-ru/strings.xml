@@ -1417,7 +1417,7 @@
     <string name="busgame_unlockimmediately_title">Разблокировать сразу</string>
     <string name="busgame_unlockimmediately_text">Ты хочешь сразу разблокировать этот автобус?</string>
     <string name="dialog_dbuilding_title">Построить здесь</string>
-    <string name="dialog_dbuilding_text">Ты хочешб разместить это здание здесь? Мы сразу закончим строительство.</string>
+    <string name="dialog_dbuilding_text">Ты хочешь разместить это здание здесь? Мы сразу закончим строительство.</string>
     <string name="dialog_performance_title">Представление</string>
     <string name="draft_brandenburgertor00_title">Бранденбургские ворота</string>
     <string name="draft_brandenburgertor00_text">Бранденбургские ворота — немецкая достопримечательность, построенная в 18 веке. Они находятся в Берлине.</string>
